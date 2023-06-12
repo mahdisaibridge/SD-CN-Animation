@@ -17,7 +17,7 @@ from modules.ui import setup_progressbar, create_sampler_and_steps_selection, or
 
 from scripts.core import vid2vid, txt2vid, utils
 import traceback
-
+# 111711fc7b521df1cb9d1ec1f95506a134e13a4a
 def V2VArgs():
     seed = -1
     width = 1024
